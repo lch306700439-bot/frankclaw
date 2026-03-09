@@ -55,3 +55,4 @@ You › work on #40652
 - **Agent SDK**: `@anthropic-ai/claude-agent-sdk`
 - **Model**: Claude Opus 4.6 (adaptive thinking)
 - **Language**: TypeScript
+# auto-sync enabled
